@@ -64,6 +64,7 @@ I prepared 18 business insights. Each insight includes: ID, Analysis, Key Findin
 superstore-retail-analysis/
 ├── README.md
 ├── Excel/
+│   └── Retail_Profitability_Discount_Analysis1.xlsx
 ├── Dashboard_Screenshots/
 │   ├── dashboard.png
 │   ├── insight_1.png
