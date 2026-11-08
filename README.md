@@ -14,7 +14,7 @@ across product categories and customer segments, and on how discounts relate to 
 - **Dataset:** Sample Superstore
 - **Size:** 9,994 rows and 21 columns (each row is one order record)
 - **Source:** [Kaggle – Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-- **License:**="Other" (terms specified in the dataset description on Kaggle). The raw dataset is not redistributed in this repository; please download it from the Kaggle link above.
+- **License:** "Other" on Kaggle (terms are given in the dataset description). Only a summary workbook is included here; the raw dataset is not redistributed. Please download it from the Kaggle link above.
 
 ## Tools Used
 
